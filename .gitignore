@@ -1,0 +1,10 @@
+# Build Folders
+*/[Bb]in/
+*/[Oo]bj/
+
+# User-specific files
+*.suo
+*.user
+*.sln.docstates
+/.vs
+/.project
